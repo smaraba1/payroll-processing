@@ -193,7 +193,7 @@ See `infrastructure/aws/README.md`
 
 ## 📄 License
 
-MIT License - see LICENSE file
+GPL 3.0 License - see LICENSE file
 
 ---
 
